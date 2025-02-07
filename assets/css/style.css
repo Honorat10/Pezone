@@ -629,7 +629,27 @@ About area-2 CSS
     background-image: url(../img/about1.png);
     left: 15px;
 
-} 
+}
+.animated-image {
+    width: 200px;
+    height: auto;
+    animation: fadeInOut 5s infinite; 
+}
+
+@keyframes fadeInOut {
+    0% {
+        opacity: 0;
+        transform: translateY(-50px); 
+    }
+    50% {
+        opacity: 1; 
+        transform: translateY(0); 
+    }
+    100% {
+        opacity: 0; 
+        transform: translateY(50px); 
+    }
+}
 
 .about-check-box i {
     color: #FF204F;
