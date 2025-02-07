@@ -16,7 +16,7 @@
       var element = $(".element");
         $(function () {
             element.typed({
-                strings: ["AWESOME", "amazing"],
+                strings: ["Xbloo"],
                 typeSpeed: 250,
                 loop: true,
             });

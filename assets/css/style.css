@@ -341,7 +341,7 @@ Main Menu CSS
 Hero CSS
 ============= */
 .hero-bg{
-    background-image: url(../img/hero-bg.png);
+    background-image: url(../img/hero.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -453,7 +453,7 @@ About-area CSS
     margin-left: 50px;
 }
 .abour-bg-img-1{
-    background-image: url(../img/about-img.png);
+    background-image: url(../img/about.png);
     right: 0;
 } 
 .abour-bg-img-1, .abour-bg-img{
