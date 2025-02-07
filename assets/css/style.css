@@ -471,7 +471,7 @@ Countdown CSS
 ============= */
 
 .countdown-bg{
-    background-image: url(../img/countdown-bg.png);
+    background-image: url(../img/count.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-color: #F6F1F0;
@@ -626,7 +626,7 @@ About area-2 CSS
 ============= */
 
 .abour-bg-img{
-    background-image: url(../img/about-img-2.png);
+    background-image: url(../img/about1.png);
     left: 15px;
 
 } 
